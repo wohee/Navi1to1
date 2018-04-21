@@ -1,0 +1,529 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CD4BF708208A4AAB0046C002 /* 20556388153622043_-137454487.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CD4BF707208A4AAB0046C002 /* 20556388153622043_-137454487.jpg */; };
+		CD4BF70A208A4BCF0046C002 /* 불고기 양념.png in Resources */ = {isa = PBXBuildFile; fileRef = CD4BF709208A4BCE0046C002 /* 불고기 양념.png */; };
+		CD4BF712208A52150046C002 /* next.png in Resources */ = {isa = PBXBuildFile; fileRef = CD4BF711208A52140046C002 /* next.png */; };
+		CD4BF714208A54040046C002 /* chef-2.png in Resources */ = {isa = PBXBuildFile; fileRef = CD4BF713208A54040046C002 /* chef-2.png */; };
+		CD4BF716208A56E20046C002 /* chat.png in Resources */ = {isa = PBXBuildFile; fileRef = CD4BF715208A56E10046C002 /* chat.png */; };
+		CD4BF718208A59100046C002 /* one-2.png in Resources */ = {isa = PBXBuildFile; fileRef = CD4BF717208A590F0046C002 /* one-2.png */; };
+		CD4BF71D208A59BB0046C002 /* five.png in Resources */ = {isa = PBXBuildFile; fileRef = CD4BF719208A59AF0046C002 /* five.png */; };
+		CD4BF71E208A59BB0046C002 /* three.png in Resources */ = {isa = PBXBuildFile; fileRef = CD4BF71A208A59B20046C002 /* three.png */; };
+		CD4BF71F208A59BB0046C002 /* four.png in Resources */ = {isa = PBXBuildFile; fileRef = CD4BF71B208A59B90046C002 /* four.png */; };
+		CD4BF720208A59BB0046C002 /* two.png in Resources */ = {isa = PBXBuildFile; fileRef = CD4BF71C208A59BA0046C002 /* two.png */; };
+		CD4BF722208A5C040046C002 /* finish.png in Resources */ = {isa = PBXBuildFile; fileRef = CD4BF721208A5C030046C002 /* finish.png */; };
+		CD4BF726208A5E500046C002 /* harvest-2.png in Resources */ = {isa = PBXBuildFile; fileRef = CD4BF725208A5E4E0046C002 /* harvest-2.png */; };
+		CD4BF728208A60EA0046C002 /* plus.png in Resources */ = {isa = PBXBuildFile; fileRef = CD4BF727208A60E90046C002 /* plus.png */; };
+		CD4BF72A208A694E0046C002 /* six.png in Resources */ = {isa = PBXBuildFile; fileRef = CD4BF729208A694C0046C002 /* six.png */; };
+		CD4BF72C208AD21A0046C002 /* 소불고기 완성1.png in Resources */ = {isa = PBXBuildFile; fileRef = CD4BF72B208AD21A0046C002 /* 소불고기 완성1.png */; };
+		CD4BF736208AD9190046C002 /* thinking.png in Resources */ = {isa = PBXBuildFile; fileRef = CD4BF733208AD9170046C002 /* thinking.png */; };
+		CD4BF738208AE08B0046C002 /* writing.png in Resources */ = {isa = PBXBuildFile; fileRef = CD4BF737208AE0860046C002 /* writing.png */; };
+		CD4BF73A208AF8190046C002 /* ComViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD4BF739208AF8190046C002 /* ComViewController.swift */; };
+		CD4BF740208B083B0046C002 /* exit.png in Resources */ = {isa = PBXBuildFile; fileRef = CD4BF73F208B08330046C002 /* exit.png */; };
+		CD4BF742208B0D660046C002 /* 스크린샷 2018-04-20 오후 5.27.37.png in Resources */ = {isa = PBXBuildFile; fileRef = CD4BF741208B0D660046C002 /* 스크린샷 2018-04-20 오후 5.27.37.png */; };
+		CD79EF232089C980003CB923 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD79EF222089C980003CB923 /* AppDelegate.swift */; };
+		CD79EF252089C980003CB923 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD79EF242089C980003CB923 /* ViewController.swift */; };
+		CD79EF282089C980003CB923 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF262089C980003CB923 /* Main.storyboard */; };
+		CD79EF2A2089C980003CB923 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF292089C980003CB923 /* Assets.xcassets */; };
+		CD79EF2D2089C980003CB923 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF2B2089C980003CB923 /* LaunchScreen.storyboard */; };
+		CD79EF352089CA44003CB923 /* FoodViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD79EF342089CA44003CB923 /* FoodViewController.swift */; };
+		CD79EF372089D58B003CB923 /* B4DE71.JPG in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF362089D58A003CB923 /* B4DE71.JPG */; };
+		CD79EF3C2089D610003CB923 /* 스크린샷 2018-04-20 오후 4.50.17.png in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF382089D610003CB923 /* 스크린샷 2018-04-20 오후 4.50.17.png */; };
+		CD79EF3D2089D610003CB923 /* 스크린샷 2018-04-20 오후 4.51.35.png in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF392089D610003CB923 /* 스크린샷 2018-04-20 오후 4.51.35.png */; };
+		CD79EF3E2089D610003CB923 /* 스크린샷 2018-04-20 오후 4.52.10.png in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF3A2089D610003CB923 /* 스크린샷 2018-04-20 오후 4.52.10.png */; };
+		CD79EF3F2089D610003CB923 /* 스크린샷 2018-04-20 오후 4.51.53.png in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF3B2089D610003CB923 /* 스크린샷 2018-04-20 오후 4.51.53.png */; };
+		CD79EF412089D8FE003CB923 /* 스크린샷 2018-04-20 오후 5.14.27.png in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF402089D8FE003CB923 /* 스크린샷 2018-04-20 오후 5.14.27.png */; };
+		CD79EF452089DC9A003CB923 /* BulViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD79EF442089DC9A003CB923 /* BulViewController.swift */; };
+		CD79EF4B2089E031003CB923 /* 소불고기_레시피_(4).jpg in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF462089E030003CB923 /* 소불고기_레시피_(4).jpg */; };
+		CD79EF4C2089E031003CB923 /* 소불고기_레시피_(6).jpg in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF472089E030003CB923 /* 소불고기_레시피_(6).jpg */; };
+		CD79EF4D2089E031003CB923 /* 소불고기_레시피_(3).jpg in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF482089E030003CB923 /* 소불고기_레시피_(3).jpg */; };
+		CD79EF4E2089E031003CB923 /* 소불고기_레시피_(5).jpg in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF492089E030003CB923 /* 소불고기_레시피_(5).jpg */; };
+		CD79EF512089E37C003CB923 /* 스크린샷 2018-04-20 오후 5.58.57.png in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF502089E37C003CB923 /* 스크린샷 2018-04-20 오후 5.58.57.png */; };
+		CD79EF572089FA6B003CB923 /* BiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD79EF562089FA6B003CB923 /* BiViewController.swift */; };
+		CD79EF67208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.51.46.png in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF5E208A0487003CB923 /* 스크린샷 2018-04-20 오후 7.51.46.png */; };
+		CD79EF68208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.52.00.png in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF5F208A0487003CB923 /* 스크린샷 2018-04-20 오후 7.52.00.png */; };
+		CD79EF69208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.52.22.png in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF60208A0488003CB923 /* 스크린샷 2018-04-20 오후 7.52.22.png */; };
+		CD79EF6A208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.52.07.png in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF61208A0488003CB923 /* 스크린샷 2018-04-20 오후 7.52.07.png */; };
+		CD79EF6B208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.52.29.png in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF62208A0488003CB923 /* 스크린샷 2018-04-20 오후 7.52.29.png */; };
+		CD79EF6C208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.52.46.png in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF63208A0488003CB923 /* 스크린샷 2018-04-20 오후 7.52.46.png */; };
+		CD79EF6D208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.53.28.png in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF64208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.53.28.png */; };
+		CD79EF6E208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.53.20.png in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF65208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.53.20.png */; };
+		CD79EF6F208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.52.15.png in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF66208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.52.15.png */; };
+		CD79EF73208A100C003CB923 /* mosaWKhhlx.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF72208A100B003CB923 /* mosaWKhhlx.jpeg */; };
+		CD79EF75208A108A003CB923 /* DukViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD79EF74208A108A003CB923 /* DukViewController.swift */; };
+		CD79EF7B208A1363003CB923 /* 끓기.png in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF76208A135F003CB923 /* 끓기.png */; };
+		CD79EF7C208A1363003CB923 /* 고기볶기.png in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF77208A1360003CB923 /* 고기볶기.png */; };
+		CD79EF7D208A1363003CB923 /* 떡국 물.png in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF78208A1362003CB923 /* 떡국 물.png */; };
+		CD79EF7E208A1363003CB923 /* 떡국완성.png in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF79208A1363003CB923 /* 떡국완성.png */; };
+		CD79EF7F208A1363003CB923 /* 끓이기.png in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF7A208A1363003CB923 /* 끓이기.png */; };
+		CD79EF81208A1365003CB923 /* 지단.png in Resources */ = {isa = PBXBuildFile; fileRef = CD79EF80208A1364003CB923 /* 지단.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		CD4BF707208A4AAB0046C002 /* 20556388153622043_-137454487.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "20556388153622043_-137454487.jpg"; sourceTree = "<group>"; };
+		CD4BF709208A4BCE0046C002 /* 불고기 양념.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "불고기 양념.png"; sourceTree = "<group>"; };
+		CD4BF711208A52140046C002 /* next.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = next.png; sourceTree = "<group>"; };
+		CD4BF713208A54040046C002 /* chef-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chef-2.png"; sourceTree = "<group>"; };
+		CD4BF715208A56E10046C002 /* chat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chat.png; sourceTree = "<group>"; };
+		CD4BF717208A590F0046C002 /* one-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "one-2.png"; sourceTree = "<group>"; };
+		CD4BF719208A59AF0046C002 /* five.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = five.png; sourceTree = "<group>"; };
+		CD4BF71A208A59B20046C002 /* three.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = three.png; sourceTree = "<group>"; };
+		CD4BF71B208A59B90046C002 /* four.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = four.png; sourceTree = "<group>"; };
+		CD4BF71C208A59BA0046C002 /* two.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = two.png; sourceTree = "<group>"; };
+		CD4BF721208A5C030046C002 /* finish.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = finish.png; sourceTree = "<group>"; };
+		CD4BF725208A5E4E0046C002 /* harvest-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "harvest-2.png"; sourceTree = "<group>"; };
+		CD4BF727208A60E90046C002 /* plus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = plus.png; sourceTree = "<group>"; };
+		CD4BF729208A694C0046C002 /* six.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = six.png; sourceTree = "<group>"; };
+		CD4BF72B208AD21A0046C002 /* 소불고기 완성1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "소불고기 완성1.png"; sourceTree = "<group>"; };
+		CD4BF733208AD9170046C002 /* thinking.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thinking.png; sourceTree = "<group>"; };
+		CD4BF737208AE0860046C002 /* writing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = writing.png; sourceTree = "<group>"; };
+		CD4BF739208AF8190046C002 /* ComViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComViewController.swift; sourceTree = "<group>"; };
+		CD4BF73F208B08330046C002 /* exit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = exit.png; sourceTree = "<group>"; };
+		CD4BF741208B0D660046C002 /* 스크린샷 2018-04-20 오후 5.27.37.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2018-04-20 오후 5.27.37.png"; sourceTree = "<group>"; };
+		CD79EF1F2089C980003CB923 /* FoodProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CD79EF222089C980003CB923 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		CD79EF242089C980003CB923 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		CD79EF272089C980003CB923 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		CD79EF292089C980003CB923 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		CD79EF2C2089C980003CB923 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		CD79EF2E2089C980003CB923 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CD79EF342089CA44003CB923 /* FoodViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodViewController.swift; sourceTree = "<group>"; };
+		CD79EF362089D58A003CB923 /* B4DE71.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = B4DE71.JPG; sourceTree = "<group>"; };
+		CD79EF382089D610003CB923 /* 스크린샷 2018-04-20 오후 4.50.17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2018-04-20 오후 4.50.17.png"; sourceTree = "<group>"; };
+		CD79EF392089D610003CB923 /* 스크린샷 2018-04-20 오후 4.51.35.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2018-04-20 오후 4.51.35.png"; sourceTree = "<group>"; };
+		CD79EF3A2089D610003CB923 /* 스크린샷 2018-04-20 오후 4.52.10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2018-04-20 오후 4.52.10.png"; sourceTree = "<group>"; };
+		CD79EF3B2089D610003CB923 /* 스크린샷 2018-04-20 오후 4.51.53.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2018-04-20 오후 4.51.53.png"; sourceTree = "<group>"; };
+		CD79EF402089D8FE003CB923 /* 스크린샷 2018-04-20 오후 5.14.27.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2018-04-20 오후 5.14.27.png"; sourceTree = "<group>"; };
+		CD79EF442089DC9A003CB923 /* BulViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BulViewController.swift; sourceTree = "<group>"; };
+		CD79EF462089E030003CB923 /* 소불고기_레시피_(4).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "소불고기_레시피_(4).jpg"; sourceTree = "<group>"; };
+		CD79EF472089E030003CB923 /* 소불고기_레시피_(6).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "소불고기_레시피_(6).jpg"; sourceTree = "<group>"; };
+		CD79EF482089E030003CB923 /* 소불고기_레시피_(3).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "소불고기_레시피_(3).jpg"; sourceTree = "<group>"; };
+		CD79EF492089E030003CB923 /* 소불고기_레시피_(5).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "소불고기_레시피_(5).jpg"; sourceTree = "<group>"; };
+		CD79EF502089E37C003CB923 /* 스크린샷 2018-04-20 오후 5.58.57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2018-04-20 오후 5.58.57.png"; sourceTree = "<group>"; };
+		CD79EF562089FA6B003CB923 /* BiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BiViewController.swift; sourceTree = "<group>"; };
+		CD79EF5E208A0487003CB923 /* 스크린샷 2018-04-20 오후 7.51.46.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2018-04-20 오후 7.51.46.png"; sourceTree = "<group>"; };
+		CD79EF5F208A0487003CB923 /* 스크린샷 2018-04-20 오후 7.52.00.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2018-04-20 오후 7.52.00.png"; sourceTree = "<group>"; };
+		CD79EF60208A0488003CB923 /* 스크린샷 2018-04-20 오후 7.52.22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2018-04-20 오후 7.52.22.png"; sourceTree = "<group>"; };
+		CD79EF61208A0488003CB923 /* 스크린샷 2018-04-20 오후 7.52.07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2018-04-20 오후 7.52.07.png"; sourceTree = "<group>"; };
+		CD79EF62208A0488003CB923 /* 스크린샷 2018-04-20 오후 7.52.29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2018-04-20 오후 7.52.29.png"; sourceTree = "<group>"; };
+		CD79EF63208A0488003CB923 /* 스크린샷 2018-04-20 오후 7.52.46.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2018-04-20 오후 7.52.46.png"; sourceTree = "<group>"; };
+		CD79EF64208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.53.28.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2018-04-20 오후 7.53.28.png"; sourceTree = "<group>"; };
+		CD79EF65208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.53.20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2018-04-20 오후 7.53.20.png"; sourceTree = "<group>"; };
+		CD79EF66208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.52.15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2018-04-20 오후 7.52.15.png"; sourceTree = "<group>"; };
+		CD79EF72208A100B003CB923 /* mosaWKhhlx.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mosaWKhhlx.jpeg; sourceTree = "<group>"; };
+		CD79EF74208A108A003CB923 /* DukViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DukViewController.swift; sourceTree = "<group>"; };
+		CD79EF76208A135F003CB923 /* 끓기.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "끓기.png"; sourceTree = "<group>"; };
+		CD79EF77208A1360003CB923 /* 고기볶기.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "고기볶기.png"; sourceTree = "<group>"; };
+		CD79EF78208A1362003CB923 /* 떡국 물.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "떡국 물.png"; sourceTree = "<group>"; };
+		CD79EF79208A1363003CB923 /* 떡국완성.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "떡국완성.png"; sourceTree = "<group>"; };
+		CD79EF7A208A1363003CB923 /* 끓이기.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "끓이기.png"; sourceTree = "<group>"; };
+		CD79EF80208A1364003CB923 /* 지단.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "지단.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CD79EF1C2089C980003CB923 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CD79EF162089C980003CB923 = {
+			isa = PBXGroup;
+			children = (
+				CD79EF212089C980003CB923 /* FoodProject */,
+				CD79EF202089C980003CB923 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CD79EF202089C980003CB923 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CD79EF1F2089C980003CB923 /* FoodProject.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CD79EF212089C980003CB923 /* FoodProject */ = {
+			isa = PBXGroup;
+			children = (
+				CD4BF741208B0D660046C002 /* 스크린샷 2018-04-20 오후 5.27.37.png */,
+				CD4BF73F208B08330046C002 /* exit.png */,
+				CD4BF737208AE0860046C002 /* writing.png */,
+				CD4BF733208AD9170046C002 /* thinking.png */,
+				CD4BF72B208AD21A0046C002 /* 소불고기 완성1.png */,
+				CD4BF729208A694C0046C002 /* six.png */,
+				CD4BF727208A60E90046C002 /* plus.png */,
+				CD4BF725208A5E4E0046C002 /* harvest-2.png */,
+				CD4BF721208A5C030046C002 /* finish.png */,
+				CD4BF719208A59AF0046C002 /* five.png */,
+				CD4BF71B208A59B90046C002 /* four.png */,
+				CD4BF71A208A59B20046C002 /* three.png */,
+				CD4BF71C208A59BA0046C002 /* two.png */,
+				CD4BF717208A590F0046C002 /* one-2.png */,
+				CD4BF715208A56E10046C002 /* chat.png */,
+				CD4BF713208A54040046C002 /* chef-2.png */,
+				CD4BF711208A52140046C002 /* next.png */,
+				CD4BF709208A4BCE0046C002 /* 불고기 양념.png */,
+				CD4BF707208A4AAB0046C002 /* 20556388153622043_-137454487.jpg */,
+				CD79EF80208A1364003CB923 /* 지단.png */,
+				CD79EF77208A1360003CB923 /* 고기볶기.png */,
+				CD79EF76208A135F003CB923 /* 끓기.png */,
+				CD79EF7A208A1363003CB923 /* 끓이기.png */,
+				CD79EF78208A1362003CB923 /* 떡국 물.png */,
+				CD79EF79208A1363003CB923 /* 떡국완성.png */,
+				CD79EF72208A100B003CB923 /* mosaWKhhlx.jpeg */,
+				CD79EF5E208A0487003CB923 /* 스크린샷 2018-04-20 오후 7.51.46.png */,
+				CD79EF5F208A0487003CB923 /* 스크린샷 2018-04-20 오후 7.52.00.png */,
+				CD79EF61208A0488003CB923 /* 스크린샷 2018-04-20 오후 7.52.07.png */,
+				CD79EF66208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.52.15.png */,
+				CD79EF60208A0488003CB923 /* 스크린샷 2018-04-20 오후 7.52.22.png */,
+				CD79EF62208A0488003CB923 /* 스크린샷 2018-04-20 오후 7.52.29.png */,
+				CD79EF63208A0488003CB923 /* 스크린샷 2018-04-20 오후 7.52.46.png */,
+				CD79EF65208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.53.20.png */,
+				CD79EF64208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.53.28.png */,
+				CD79EF502089E37C003CB923 /* 스크린샷 2018-04-20 오후 5.58.57.png */,
+				CD79EF482089E030003CB923 /* 소불고기_레시피_(3).jpg */,
+				CD79EF462089E030003CB923 /* 소불고기_레시피_(4).jpg */,
+				CD79EF492089E030003CB923 /* 소불고기_레시피_(5).jpg */,
+				CD79EF472089E030003CB923 /* 소불고기_레시피_(6).jpg */,
+				CD79EF402089D8FE003CB923 /* 스크린샷 2018-04-20 오후 5.14.27.png */,
+				CD79EF382089D610003CB923 /* 스크린샷 2018-04-20 오후 4.50.17.png */,
+				CD79EF392089D610003CB923 /* 스크린샷 2018-04-20 오후 4.51.35.png */,
+				CD79EF3B2089D610003CB923 /* 스크린샷 2018-04-20 오후 4.51.53.png */,
+				CD79EF3A2089D610003CB923 /* 스크린샷 2018-04-20 오후 4.52.10.png */,
+				CD79EF362089D58A003CB923 /* B4DE71.JPG */,
+				CD79EF222089C980003CB923 /* AppDelegate.swift */,
+				CD79EF242089C980003CB923 /* ViewController.swift */,
+				CD79EF262089C980003CB923 /* Main.storyboard */,
+				CD79EF292089C980003CB923 /* Assets.xcassets */,
+				CD79EF2B2089C980003CB923 /* LaunchScreen.storyboard */,
+				CD79EF2E2089C980003CB923 /* Info.plist */,
+				CD79EF342089CA44003CB923 /* FoodViewController.swift */,
+				CD79EF442089DC9A003CB923 /* BulViewController.swift */,
+				CD79EF562089FA6B003CB923 /* BiViewController.swift */,
+				CD79EF74208A108A003CB923 /* DukViewController.swift */,
+				CD4BF739208AF8190046C002 /* ComViewController.swift */,
+			);
+			path = FoodProject;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CD79EF1E2089C980003CB923 /* FoodProject */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CD79EF312089C980003CB923 /* Build configuration list for PBXNativeTarget "FoodProject" */;
+			buildPhases = (
+				CD79EF1B2089C980003CB923 /* Sources */,
+				CD79EF1C2089C980003CB923 /* Frameworks */,
+				CD79EF1D2089C980003CB923 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FoodProject;
+			productName = FoodProject;
+			productReference = CD79EF1F2089C980003CB923 /* FoodProject.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CD79EF172089C980003CB923 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0920;
+				LastUpgradeCheck = 0920;
+				ORGANIZATIONNAME = SWUCOMPUTER;
+				TargetAttributes = {
+					CD79EF1E2089C980003CB923 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = CD79EF1A2089C980003CB923 /* Build configuration list for PBXProject "FoodProject" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CD79EF162089C980003CB923;
+			productRefGroup = CD79EF202089C980003CB923 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CD79EF1E2089C980003CB923 /* FoodProject */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CD79EF1D2089C980003CB923 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD79EF372089D58B003CB923 /* B4DE71.JPG in Resources */,
+				CD4BF72A208A694E0046C002 /* six.png in Resources */,
+				CD4BF71E208A59BB0046C002 /* three.png in Resources */,
+				CD79EF2D2089C980003CB923 /* LaunchScreen.storyboard in Resources */,
+				CD4BF70A208A4BCF0046C002 /* 불고기 양념.png in Resources */,
+				CD79EF4E2089E031003CB923 /* 소불고기_레시피_(5).jpg in Resources */,
+				CD4BF742208B0D660046C002 /* 스크린샷 2018-04-20 오후 5.27.37.png in Resources */,
+				CD79EF7F208A1363003CB923 /* 끓이기.png in Resources */,
+				CD4BF722208A5C040046C002 /* finish.png in Resources */,
+				CD79EF4B2089E031003CB923 /* 소불고기_레시피_(4).jpg in Resources */,
+				CD79EF73208A100C003CB923 /* mosaWKhhlx.jpeg in Resources */,
+				CD4BF712208A52150046C002 /* next.png in Resources */,
+				CD79EF4C2089E031003CB923 /* 소불고기_레시피_(6).jpg in Resources */,
+				CD79EF6E208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.53.20.png in Resources */,
+				CD4BF738208AE08B0046C002 /* writing.png in Resources */,
+				CD79EF6A208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.52.07.png in Resources */,
+				CD79EF6D208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.53.28.png in Resources */,
+				CD79EF3E2089D610003CB923 /* 스크린샷 2018-04-20 오후 4.52.10.png in Resources */,
+				CD4BF716208A56E20046C002 /* chat.png in Resources */,
+				CD79EF81208A1365003CB923 /* 지단.png in Resources */,
+				CD4BF72C208AD21A0046C002 /* 소불고기 완성1.png in Resources */,
+				CD4BF736208AD9190046C002 /* thinking.png in Resources */,
+				CD79EF412089D8FE003CB923 /* 스크린샷 2018-04-20 오후 5.14.27.png in Resources */,
+				CD79EF7C208A1363003CB923 /* 고기볶기.png in Resources */,
+				CD79EF6F208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.52.15.png in Resources */,
+				CD79EF3C2089D610003CB923 /* 스크린샷 2018-04-20 오후 4.50.17.png in Resources */,
+				CD79EF7D208A1363003CB923 /* 떡국 물.png in Resources */,
+				CD79EF67208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.51.46.png in Resources */,
+				CD79EF7B208A1363003CB923 /* 끓기.png in Resources */,
+				CD4BF708208A4AAB0046C002 /* 20556388153622043_-137454487.jpg in Resources */,
+				CD79EF3D2089D610003CB923 /* 스크린샷 2018-04-20 오후 4.51.35.png in Resources */,
+				CD79EF512089E37C003CB923 /* 스크린샷 2018-04-20 오후 5.58.57.png in Resources */,
+				CD79EF68208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.52.00.png in Resources */,
+				CD79EF6C208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.52.46.png in Resources */,
+				CD4BF714208A54040046C002 /* chef-2.png in Resources */,
+				CD79EF6B208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.52.29.png in Resources */,
+				CD79EF4D2089E031003CB923 /* 소불고기_레시피_(3).jpg in Resources */,
+				CD4BF726208A5E500046C002 /* harvest-2.png in Resources */,
+				CD79EF2A2089C980003CB923 /* Assets.xcassets in Resources */,
+				CD4BF71D208A59BB0046C002 /* five.png in Resources */,
+				CD4BF740208B083B0046C002 /* exit.png in Resources */,
+				CD79EF7E208A1363003CB923 /* 떡국완성.png in Resources */,
+				CD79EF282089C980003CB923 /* Main.storyboard in Resources */,
+				CD4BF718208A59100046C002 /* one-2.png in Resources */,
+				CD4BF720208A59BB0046C002 /* two.png in Resources */,
+				CD79EF3F2089D610003CB923 /* 스크린샷 2018-04-20 오후 4.51.53.png in Resources */,
+				CD4BF71F208A59BB0046C002 /* four.png in Resources */,
+				CD79EF69208A0489003CB923 /* 스크린샷 2018-04-20 오후 7.52.22.png in Resources */,
+				CD4BF728208A60EA0046C002 /* plus.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CD79EF1B2089C980003CB923 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD79EF452089DC9A003CB923 /* BulViewController.swift in Sources */,
+				CD79EF252089C980003CB923 /* ViewController.swift in Sources */,
+				CD79EF352089CA44003CB923 /* FoodViewController.swift in Sources */,
+				CD79EF75208A108A003CB923 /* DukViewController.swift in Sources */,
+				CD79EF572089FA6B003CB923 /* BiViewController.swift in Sources */,
+				CD4BF73A208AF8190046C002 /* ComViewController.swift in Sources */,
+				CD79EF232089C980003CB923 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		CD79EF262089C980003CB923 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CD79EF272089C980003CB923 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		CD79EF2B2089C980003CB923 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CD79EF2C2089C980003CB923 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		CD79EF2F2089C980003CB923 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		CD79EF302089C980003CB923 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CD79EF322089C980003CB923 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = FoodProject/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = kr.ac.swu.FoodProject;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		CD79EF332089C980003CB923 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = FoodProject/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = kr.ac.swu.FoodProject;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CD79EF1A2089C980003CB923 /* Build configuration list for PBXProject "FoodProject" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CD79EF2F2089C980003CB923 /* Debug */,
+				CD79EF302089C980003CB923 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CD79EF312089C980003CB923 /* Build configuration list for PBXNativeTarget "FoodProject" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CD79EF322089C980003CB923 /* Debug */,
+				CD79EF332089C980003CB923 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CD79EF172089C980003CB923 /* Project object */;
+}
